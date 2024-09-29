@@ -26,7 +26,9 @@ Requirements:
 - NetPBM tools (`ppmtoilbm`, `ppmquant`)
 - `cc1541` for creating the D81 disk image
 
-Author: [RaúlSQ]
+To run the script, type "python3 IC65_128_2.py" in the Linux console.
+
+Author: [RaulSQ]
 Date: [29.09.2024]
 """
 
