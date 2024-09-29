@@ -24,3 +24,5 @@ Requirements:
 - ImageMagick (`convert` command)
 - NetPBM tools (`ppmtoilbm`, `ppmquant`)
 - `cc1541` for creating the D81 disk image
+
+To run the script, type "python3 IC65_128_2.py" in the Linux console.
